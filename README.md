@@ -9,12 +9,13 @@
 <table>
     <tr>
       <td>
-◽️ Olá! Sou a Lorena (Corviny), estudante de Ciência da Computação (UniCEUB), apaixonada por tecnologia e aprendizado contínuo. <br><br>
-◽️ Tenho interesse especial em desenvolvimento web e em suporte/técnico em informática, e também exploro o desenvolvimento de jogos como um hobby criativo que me permite combinar lógica e imaginação. <br><br>
-◽️ No GitHub, compartilho meus projetos pessoais e registro o que estou aprendendo à medida que evoluo na área de tecnologia. Estou sempre aberta a colaborações e feedback! <br><br>
+- OOOIIIII! Me chamo Rafael Coura (Couraeel), tenho 20 anos e curso Ciência da Computação, gosto de música, programação e dos meus amigos<3 <br><br>
+- Tenho interesse especial em desenvolvimento web e em suporte/técnico em informática, e também exploro o desenvolvimento de jogos como um hobby criativo que me permite combinar lógica e imaginação. <br><br>
+- No GitHub, compartilho meus projetos pessoais e registro o que estou aprendendo à medida que evoluo na área de tecnologia. Estou sempre aberta a colaborações e feedback! <br><br>
       </td>
       <td align="right" style="min-width: 180px;">
-          <img src="./assets/tanjiro2.gif" alt="Tanjiro gif" width="180" height="180"/>
+          <img src="Assests/Pavitr Prabhakar.jpg
+          " alt="Indian" width="180" height="180"/>
       </td>
       </tr>
   </table>
