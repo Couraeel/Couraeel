@@ -32,8 +32,6 @@
 
 
 <hr>
-<!-- lastfm -->
-
 
 🎧 O que estou escutando enquanto programo
 
