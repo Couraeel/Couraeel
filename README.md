@@ -7,12 +7,16 @@
 
 <hr>
 
-📊 Algumas Metrics
+📊 Algumas Metricas
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/github-metrics.svg)
+
 <br>
+
 <hr>
+
 <br>
+
 💡 Linguagens e Frameworks
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" >
