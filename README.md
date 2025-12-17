@@ -15,7 +15,7 @@
       </td>
       <td align="right" style="min-width: 180px;">
           <img src="Assets/Pavitr_Prabhakar.jpg" alt="Indian" 
-          width="180" height="180"/>
+          width="200" height="200"/>
       </td>
       </tr>
   </table>
