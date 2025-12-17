@@ -11,11 +11,8 @@
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/github-metrics.svg)
 
-<br>
 
 <hr>
-
-<br>
 
 💡 Linguagens e Frameworks
 <br><br>
@@ -48,16 +45,16 @@
 <table border="2">
     <thead>
         <tr>
-            <th>Produtos</th>
-            <th>Quantidade</th>
-            <th>Preco</th>
+            <th>Projetos</th>
+            <th>Descrição</th>
+            <th>Acesso</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>celular bao</td>
-            <td>10</td>
-            <td>R$200</td>
+            <td>Biblioteca de Alexandria</td>
+            <td>Aplicação para gerenciamento acadêmico</td>
+            <td>[Repositório](https://github.com/Devrichas/Biblioteca_de_Alexandria) |</td>
         </tr>
     </tbody>
 
