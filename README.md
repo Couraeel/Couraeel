@@ -63,7 +63,7 @@
 
 📊 GitHub Metrics
 
-![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/metrics/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/github-metrics.svg)
 
 
 
