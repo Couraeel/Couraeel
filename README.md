@@ -11,7 +11,7 @@
       <td>
 - OOOIIIII! Me chamo Rafael Coura (Couraeel), tenho 20 anos e curso Ciência da Computação, gosto de música, programação e dos meus amigos<3.<br><br>
 - Estou sempre buscando aprender coisas novas, mas atualmente exploro o desenvolvimento web e de jogos, especialmente utilizando unity e gamemaker. <br><br>
-- Por aqui compartilho praticamente tudo então não se preocupe se achar algum arquivo chamado "pão com salsicha.py". <br><br>
+- Por aqui compartilho praticamente tudo então não se preocupe se achar algum arquivo chamado "pão_com_salsicha.py". <br><br>
       </td>
       <td align="right" style="min-width: 180px;">
           <img src="Assets/Pavitr_Prabhakar.jpg" alt="Indian" 
