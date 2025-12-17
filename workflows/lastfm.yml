@@ -5,11 +5,19 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: shinokada/lastfm-readme@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Last.fm section
+        uses: shinokada/lastfm-readme@v1
         with:
           lastfm_api_key: ${{ secrets.LASTFM_API_KEY }}
           lastfm_username: ${{ secrets.LASTFM_USERNAME }}
