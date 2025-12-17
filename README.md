@@ -33,4 +33,7 @@
 
 <hr>
 
-<!-- lastfm -->
+<!-- LASTFM:START -->
+
+
+<!-- LASTFM:END -->
