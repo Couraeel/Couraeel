@@ -1,12 +1,10 @@
 
 Oiiiiiiiiiiii
 
-<img src= "Assets/musica.png" alt="Smile" width="8"> Rafael Coura <img src= "Assets/musica.png" alt="Smile" width="8"> 
+🎶 Rafael Coura 🎶
+<img src= "Assets/program.png" alt="program" width="50">
 
-<img src= "Assets/toothless_smile.gif"
-    alt="Smile"
-    width="800">
-
+<img src= "Assets/toothless_smile.gif" alt="Smile" width="500">
 
 <img src= "Assets/jurassic.gif"
     alt="??????"
