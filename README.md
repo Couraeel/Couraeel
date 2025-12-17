@@ -35,6 +35,5 @@
 
 🎧 O que estou escutando enquanto programo
 
-<!-- LASTFM:START -->
-<!-- LASTFM:END -->
+<img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
 
