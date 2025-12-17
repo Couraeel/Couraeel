@@ -61,7 +61,10 @@
 <img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
 
 
+📊 GitHub Metrics
+
 ![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/metrics/github-metrics.svg)
+
 
 
 
