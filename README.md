@@ -5,9 +5,14 @@
 <img src= "Assets/toothless_smile.gif" alt="Smile" width="500">
 <br>
 
-
 <hr>
 
+📊 Algumas Metrics
+
+![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/github-metrics.svg)
+<br>
+<hr>
+<br>
 💡 Linguagens e Frameworks
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" >
@@ -61,9 +66,7 @@
 <img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
 
 
-📊 GitHub Metrics
 
-![GitHub Metrics](https://raw.githubusercontent.com/Couraeel/Couraeel/main/github-metrics.svg)
 
 
 
