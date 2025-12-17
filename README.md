@@ -80,7 +80,7 @@
 
 <hr>
 
-🎧 O que estou escutando enquanto programo 🎧
+🎧 O que escuto enquanto programo 🎧
 
 <img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
 
