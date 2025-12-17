@@ -17,8 +17,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50">
-            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50">
+          
 
 💾 Meus Projetos
 <br>
 <img src= "Assets/jurassic.gif" alt="??????" width="200">
+
+
+
+<img src="https://camo.githubusercontent.com/3ed758ed67e901efdba5f9c8cd86d9f93c71d99cadcf7dde5f9ec03776e3f347/68747470733a2f2f73706f746966792d6e6f772d706c6179696e672d6361726f6c34322e76657263656c2e6170702f6170692f73706f74696679" alt="Now playing on Spotify" data-canonical-src="https://spotify-now-playing-carol42.vercel.app/api/spotify" style="max-width: 100%;">
