@@ -9,7 +9,7 @@
 <hr>
 
 💡 Linguagens e Frameworks
-<br>
+<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" >
@@ -18,7 +18,7 @@
 <hr>
 
 🛠️ Outras ferramentas
-<br>
+<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50">
@@ -27,9 +27,8 @@
 <hr>
 
 💾 Meus Projetos
-<br>
+<br><br>
 <img src= "Assets/jurassic.gif" alt="??????" width="200">
-
 
 <hr>
 
