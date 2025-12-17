@@ -29,23 +29,14 @@
 💾 Meus Projetos
 <br><br>
 <img src= "Assets/jurassic.gif" alt="??????" width="200">
-
-<hr>
-
-🎧 O que estou escutando enquanto programo 🎧
-
-<img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
-
-
-
 <!--
         caption -> legenda
         thead -> Table header (cabeçalho da tabela)
         tbody -> Table body (corpo da tabela)
         tfoot -> Table Footer (rodape da tabela)
 -->
-<table border="1">
-    <caption>Listagem de produtos</caption>
+<br>
+<table border="2">
     <thead>
         <tr>
             <th>Produtos</th>
@@ -62,3 +53,13 @@
     </tbody>
 
 </table>
+
+<hr>
+
+🎧 O que estou escutando enquanto programo 🎧
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=couraeel&count=5" />
+
+
+
+
