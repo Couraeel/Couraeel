@@ -2,7 +2,8 @@
 Oiiiiiiiiiiii
 
 🎶 Rafael Coura 🎶
-<img src= "Assets/program.png" alt="program" width="50">
+<br>
+<img src= "Assets/program.png" alt="program" width="30">
 
 <img src= "Assets/toothless_smile.gif" alt="Smile" width="500">
 
