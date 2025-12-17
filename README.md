@@ -1,8 +1,6 @@
 
-Oiiiiiiiiiiii
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008802&center=true&vCenter=true&width=435&lines=Rafael+Coura;Cientista+da+Computa%C3%A7%C3%A3o;%F0%9F%8E%B6+Music+Lover+%F0%9F%8E%B6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008802&center=true&vCenter=true&width=435&lines=OIIII%2C+Me+chamo+Rafael+Coura;Tenho+20+anos+%3E.%3C;Amante+da+m%C3%BAsica+e+da+programa%C3%A7%C3%A3o;Cientista+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Front+End" alt="Typing SVG" /></a>
 
 🎶 Rafael Coura 🎶
 <br>
