@@ -72,7 +72,7 @@
         <tr>
             <td>Biblioteca de Alexandria</td>
             <td>Aplicação para gerenciamento acadêmico</td>
-            <td><a href="(https://github.com/Devrichas/Biblioteca_de_Alexandria)"/>Biblioteca</a></td>
+            <td><a href="(https://github.com/Devrichas/Biblioteca_de_Alexandria)" target="_self" />Biblioteca</a></td>
         </tr>
     </tbody>
 
