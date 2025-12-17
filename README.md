@@ -38,29 +38,27 @@
 
 
 
-    <!--
+<!--
         caption -> legenda
         thead -> Table header (cabeçalho da tabela)
         tbody -> Table body (corpo da tabela)
         tfoot -> Table Footer (rodape da tabela)
-    -->
-    <table border="1">
-        <caption>Listagem de produtos</caption>
-        <thead>
-            <tr>
-                <th>Produtos</th>
-                <th>Quantidade</th>
-                <th>Preco</th>
-            </tr>
-        </thead>
+-->
+<table border="1">
+    <caption>Listagem de produtos</caption>
+    <thead>
+        <tr>
+            <th>Produtos</th>
+            <th>Quantidade</th>
+            <th>Preco</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>celular bao</td>
+            <td>10</td>
+            <td>R$200</td>
+        </tr>
+    </tbody>
 
-        <tbody>
-            <tr>
-                <td>celular bao</td>
-                <td>10</td>
-                <td>R$200</td>
-            </tr>
-        </tbody>
-
-    </table>
-</body>
+</table>
