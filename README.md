@@ -32,9 +32,7 @@
 
 
 <hr>
-## 🎧 O que estou escutando enquanto programo
-
-> Atualizado automaticamente via **Last.fm**
+🎧 O que estou escutando enquanto programo
 
 <!-- LASTFM:START -->
 <!-- LASTFM:END -->
