@@ -1,7 +1,7 @@
 
 Oiiiiiiiiiiii
 
-<img src= "Assets/musica.png" alt="Smile" width="80"> Rafael Coura <img src= "Assets/musica.png" alt="Smile" width="80"> 
+<img src= "Assets/musica.png" alt="Smile" width="8"> Rafael Coura <img src= "Assets/musica.png" alt="Smile" width="8"> 
 
 <img src= "Assets/toothless_smile.gif"
     alt="Smile"
